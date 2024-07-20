@@ -1,2 +1,7 @@
-# X-Plotting
-I made an Plotting system with X. Originally stemming from a challange set by my club VP, and took him onto it. 
+=======================Documentation===============================
+* By: Nitro-Jack
+
+- In it, there are 2 fuctions, main & printing, which handles printing.
+- Normal-Funny is how it would normally be written.
+- Funny was it just compressed without the notes on what everything does.
+- Working on making Code that runs this in uder 75 characters & eventually 50 characters
