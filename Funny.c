@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main() { int unobool = 1, xnum = 5, linenum = 0; while (linenum < 5) printing(unobool, xnum), unobool = !unobool, linenum++; return 0; } void printing(int unobool, int xnum) { int looper = 0; while (looper < xnum) printf(unobool ? " X" : "X "), looper++; printf("\n"); }
